@@ -16,5 +16,8 @@ Kelas : A (genap)<br>
 <img width="950" height="90" alt="image" src="https://github.com/user-attachments/assets/48a7dc03-8269-451c-abcb-9924f7ea459d" />
 
   5. Kode di bawah berfungsi untuk menampilkan jenis kendaraan, total biaya parkir, dan lama parkir yang diperoleh dari jam masuk dan jam keluar. 
-     <img width="726" height="100" alt="image" src="https://github.com/user-attachments/assets/d9c2971c-ee2e-4a25-80b2-b4e3ef079ef7" />
+<img width="726" height="100" alt="image" src="https://github.com/user-attachments/assets/d9c2971c-ee2e-4a25-80b2-b4e3ef079ef7" />
+
+Output Kode<br>
+<img width="854" height="264" alt="image" src="https://github.com/user-attachments/assets/dddab83c-4b78-4948-8fb1-ce7b3d47f181" />
 
